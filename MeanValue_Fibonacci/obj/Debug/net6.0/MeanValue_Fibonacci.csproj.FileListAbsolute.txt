@@ -1,0 +1,15 @@
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\MeanValue_Fibonacci\obj\Debug\net6.0\MeanValue_Fibonacci.csproj.AssemblyReference.cache
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\MeanValue_Fibonacci\obj\Debug\net6.0\MeanValue_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\MeanValue_Fibonacci\obj\Debug\net6.0\MeanValue_Fibonacci.AssemblyInfoInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\MeanValue_Fibonacci\obj\Debug\net6.0\MeanValue_Fibonacci.AssemblyInfo.cs
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\MeanValue_Fibonacci\obj\Debug\net6.0\MeanValue_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\MeanValue_Fibonacci\bin\Debug\net6.0\MeanValue_Fibonacci.exe
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\MeanValue_Fibonacci\bin\Debug\net6.0\MeanValue_Fibonacci.deps.json
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\MeanValue_Fibonacci\bin\Debug\net6.0\MeanValue_Fibonacci.runtimeconfig.json
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\MeanValue_Fibonacci\bin\Debug\net6.0\MeanValue_Fibonacci.dll
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\MeanValue_Fibonacci\bin\Debug\net6.0\MeanValue_Fibonacci.pdb
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\MeanValue_Fibonacci\obj\Debug\net6.0\MeanValue_Fibonacci.dll
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\MeanValue_Fibonacci\obj\Debug\net6.0\refint\MeanValue_Fibonacci.dll
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\MeanValue_Fibonacci\obj\Debug\net6.0\MeanValue_Fibonacci.pdb
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\MeanValue_Fibonacci\obj\Debug\net6.0\MeanValue_Fibonacci.genruntimeconfig.cache
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\MeanValue_Fibonacci\obj\Debug\net6.0\ref\MeanValue_Fibonacci.dll

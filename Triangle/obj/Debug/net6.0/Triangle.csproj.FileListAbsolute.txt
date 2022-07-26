@@ -1,0 +1,15 @@
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Triangle\bin\Debug\net6.0\Triangle.exe
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Triangle\bin\Debug\net6.0\Triangle.deps.json
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Triangle\bin\Debug\net6.0\Triangle.runtimeconfig.json
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Triangle\bin\Debug\net6.0\Triangle.dll
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Triangle\bin\Debug\net6.0\Triangle.pdb
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Triangle\obj\Debug\net6.0\Triangle.csproj.AssemblyReference.cache
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Triangle\obj\Debug\net6.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Triangle\obj\Debug\net6.0\Triangle.AssemblyInfoInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Triangle\obj\Debug\net6.0\Triangle.AssemblyInfo.cs
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Triangle\obj\Debug\net6.0\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Triangle\obj\Debug\net6.0\Triangle.dll
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Triangle\obj\Debug\net6.0\refint\Triangle.dll
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Triangle\obj\Debug\net6.0\Triangle.pdb
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Triangle\obj\Debug\net6.0\Triangle.genruntimeconfig.cache
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Triangle\obj\Debug\net6.0\ref\Triangle.dll

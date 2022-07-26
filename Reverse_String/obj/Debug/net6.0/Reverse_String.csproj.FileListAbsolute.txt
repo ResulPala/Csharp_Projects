@@ -1,0 +1,15 @@
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Reverse_String\bin\Debug\net6.0\Reverse_String.exe
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Reverse_String\bin\Debug\net6.0\Reverse_String.deps.json
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Reverse_String\bin\Debug\net6.0\Reverse_String.runtimeconfig.json
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Reverse_String\bin\Debug\net6.0\Reverse_String.dll
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Reverse_String\bin\Debug\net6.0\Reverse_String.pdb
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Reverse_String\obj\Debug\net6.0\Reverse_String.csproj.AssemblyReference.cache
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Reverse_String\obj\Debug\net6.0\Reverse_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Reverse_String\obj\Debug\net6.0\Reverse_String.AssemblyInfoInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Reverse_String\obj\Debug\net6.0\Reverse_String.AssemblyInfo.cs
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Reverse_String\obj\Debug\net6.0\Reverse_String.csproj.CoreCompileInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Reverse_String\obj\Debug\net6.0\Reverse_String.dll
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Reverse_String\obj\Debug\net6.0\refint\Reverse_String.dll
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Reverse_String\obj\Debug\net6.0\Reverse_String.pdb
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Reverse_String\obj\Debug\net6.0\Reverse_String.genruntimeconfig.cache
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Reverse_String\obj\Debug\net6.0\ref\Reverse_String.dll
