@@ -1,0 +1,15 @@
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Area_Measurement\bin\Debug\net6.0\Area_Measurement.exe
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Area_Measurement\bin\Debug\net6.0\Area_Measurement.deps.json
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Area_Measurement\bin\Debug\net6.0\Area_Measurement.runtimeconfig.json
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Area_Measurement\bin\Debug\net6.0\Area_Measurement.dll
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Area_Measurement\bin\Debug\net6.0\Area_Measurement.pdb
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Area_Measurement\obj\Debug\net6.0\Area_Measurement.csproj.AssemblyReference.cache
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Area_Measurement\obj\Debug\net6.0\Area_Measurement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Area_Measurement\obj\Debug\net6.0\Area_Measurement.AssemblyInfoInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Area_Measurement\obj\Debug\net6.0\Area_Measurement.AssemblyInfo.cs
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Area_Measurement\obj\Debug\net6.0\Area_Measurement.csproj.CoreCompileInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Area_Measurement\obj\Debug\net6.0\Area_Measurement.dll
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Area_Measurement\obj\Debug\net6.0\refint\Area_Measurement.dll
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Area_Measurement\obj\Debug\net6.0\Area_Measurement.pdb
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Area_Measurement\obj\Debug\net6.0\Area_Measurement.genruntimeconfig.cache
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Area_Measurement\obj\Debug\net6.0\ref\Area_Measurement.dll

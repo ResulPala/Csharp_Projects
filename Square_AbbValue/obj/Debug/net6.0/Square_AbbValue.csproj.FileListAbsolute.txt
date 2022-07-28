@@ -1,0 +1,15 @@
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Square_AbbValue\bin\Debug\net6.0\Square_AbbValue.exe
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Square_AbbValue\bin\Debug\net6.0\Square_AbbValue.deps.json
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Square_AbbValue\bin\Debug\net6.0\Square_AbbValue.runtimeconfig.json
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Square_AbbValue\bin\Debug\net6.0\Square_AbbValue.dll
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Square_AbbValue\bin\Debug\net6.0\Square_AbbValue.pdb
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Square_AbbValue\obj\Debug\net6.0\Square_AbbValue.csproj.AssemblyReference.cache
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Square_AbbValue\obj\Debug\net6.0\Square_AbbValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Square_AbbValue\obj\Debug\net6.0\Square_AbbValue.AssemblyInfoInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Square_AbbValue\obj\Debug\net6.0\Square_AbbValue.AssemblyInfo.cs
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Square_AbbValue\obj\Debug\net6.0\Square_AbbValue.csproj.CoreCompileInputs.cache
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Square_AbbValue\obj\Debug\net6.0\Square_AbbValue.dll
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Square_AbbValue\obj\Debug\net6.0\refint\Square_AbbValue.dll
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Square_AbbValue\obj\Debug\net6.0\Square_AbbValue.pdb
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Square_AbbValue\obj\Debug\net6.0\Square_AbbValue.genruntimeconfig.cache
+C:\Users\resul\OneDrive\Masaüstü\PATIKA\Baslangic Seviyesi Dotnet Core Patikasi\Csharp_Projects\Square_AbbValue\obj\Debug\net6.0\ref\Square_AbbValue.dll

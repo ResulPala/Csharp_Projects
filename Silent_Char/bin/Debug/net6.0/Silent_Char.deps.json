@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Silent_Char/1.0.0": {
+        "runtime": {
+          "Silent_Char.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Silent_Char/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
